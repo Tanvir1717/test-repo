@@ -8,3 +8,7 @@
 //8- we will ignore node module file cause unnecessary, create .gitignore file
 //9- add /node-modules to .gitignore and check git status
 //10- git ads . , git commit -m "Initialize module"
+
+//---------------------------------------------------
+//---Connect offline repo to online repo
+// ***git remote add origin https://github.com/Tanvir1717/test-repo.git
